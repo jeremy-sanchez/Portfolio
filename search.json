@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am currently a Lecturer in the Department of Statistics at the University of California, Berkeley, having been in the role since June 2022.\n\nCourses Taught\n\nData C8 (Foundations of Data Science)\nStat 20 (Introduction to Probability and Statistics)\nStat 134 (Concepts of Probability)\nStat C131A (Statistical Methods for Data Science)\n\n\n\nEducation\n\nMA Statistics, University of California, Berkeley, 2022\nBS Statistics, University of Florida, 2021"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "Here, you can view some personal projects that I’ve been working on which cover different aspects of data science, probability and statistics!"
+  }
+]
