@@ -1,3 +1,10 @@
+# website related
 /.quarto/
 /_site/
+
+# R related
 .Rproj.user
+.Rhistory
+
+# Dropbox backup files
+.DS_Store
