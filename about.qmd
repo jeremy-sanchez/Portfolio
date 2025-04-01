@@ -1,0 +1,19 @@
+---
+title: "About"
+---
+
+I am currently a Lecturer in the Department of Statistics at the University of California, Berkeley, having been in the role since June 2022. 
+
+### Courses Taught
+
+- Data C8 (Foundations of Data Science)
+- Stat 20 (Introduction to Probability and Statistics)
+- Stat 134 (Concepts of Probability)
+- Stat C131A (Statistical Methods for Data Science)
+
+### Education
+
+- MA Statistics, University of California, Berkeley, 2022
+- BS Statistics, University of Florida, 2021
+
+
